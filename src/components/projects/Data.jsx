@@ -1,27 +1,45 @@
 import Project1 from "../../assets/project1.webp";
-import Project2 from "../../assets/project2.webp";
-import Project3 from "../../assets/project3.webp";
+import Project2 from "../../assets/hashtag.png";
+import Project3 from "../../assets/techy.png";
+import Project4 from "../../assets/hotel.png";
 
 
 export const projectsData = [
     {
         id: 1,
         image: Project1,
-        title: "Project 1",
-        category: "A",
+        title: "Keeper-NotesTaking-Website",
+        category: "React",
+        site:"https://github.com/Rishabh-Kala-2003",
     },
     {
         id: 2,
         image: Project2,
-        title: "Project 2",
-        category: "B",
+        title: "Hashtag",
+        category: "HTML+CSS+JS",
+        site:"https://hashtag-society.netlify.app/",
     },
     {
         id: 3,
         image: Project3,
-        title: "Project 3",
-        category: "C",
+        title: "Techystar-Company-Website",
+        category: "React",
+        site:"https://techystar-react.vercel.app/",
     },
+    {
+        id: 4,
+        image: Project4,
+        title: "Responsive-Hotel-Website",
+        category: "HTML+CSS+JS",
+        site:"https://hotel-rajmahal.netlify.app/",
+    },
+    // {
+    //     id: 5,
+    //     image: Project5,
+    //     title: "",
+    //     category: "Web Development",
+    //     site:"",
+    // },
 ];
 
 export const projectsNav = [
@@ -29,12 +47,12 @@ export const projectsNav = [
         name: "All",
     },
     {
-        name: "A",
+        name: "React",
     },
     {
-        name: "B",
+        name: "HTML+CSS+JS",
     },
     {
-        name: "C",
+        name: "Backend",
     },
 ];
