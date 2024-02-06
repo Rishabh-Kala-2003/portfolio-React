@@ -47,20 +47,6 @@ export const projectsData = [
 =======
 >>>>>>> 363d698404c9f4d07066844d984619e6ea9f3c3b
     },
-    {
-        id: 4,
-        image: Project4,
-        title: "Responsive-Hotel-Website",
-        category: "HTML+CSS+JS",
-        site:"https://hotel-rajmahal.netlify.app/",
-    },
-    // {
-    //     id: 5,
-    //     image: Project5,
-    //     title: "",
-    //     category: "Web Development",
-    //     site:"",
-    // },
 ];
 
 export const projectsNav = [
