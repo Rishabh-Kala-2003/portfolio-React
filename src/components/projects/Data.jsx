@@ -2,11 +2,7 @@ import Project1 from "../../assets/project1.webp";
 import Project2 from "../../assets/hashtag.png";
 import Project3 from "../../assets/techy.png";
 import Project4 from "../../assets/hotel.png";
-<<<<<<< HEAD
 import Project5 from "../../assets/Drum.png";
-=======
-
->>>>>>> 363d698404c9f4d07066844d984619e6ea9f3c3b
 
 export const projectsData = [
     {
@@ -29,7 +25,6 @@ export const projectsData = [
         title: "Techystar-Company-Website",
         category: "React",
         site:"https://techystar-react.vercel.app/",
-<<<<<<< HEAD
     },
     {
         id: 4,
@@ -44,8 +39,6 @@ export const projectsData = [
         title: "Drum-Kit",
         category: "HTML+CSS+JS",
         site:"https://drum-kit-450.netlify.app/",
-=======
->>>>>>> 363d698404c9f4d07066844d984619e6ea9f3c3b
     },
 ];
 
