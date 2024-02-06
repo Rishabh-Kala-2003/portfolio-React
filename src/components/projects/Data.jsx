@@ -2,7 +2,7 @@ import Project1 from "../../assets/project1.webp";
 import Project2 from "../../assets/hashtag.png";
 import Project3 from "../../assets/techy.png";
 import Project4 from "../../assets/hotel.png";
-
+import Project5 from "../../assets/Drum.png";
 
 export const projectsData = [
     {
@@ -33,13 +33,13 @@ export const projectsData = [
         category: "HTML+CSS+JS",
         site:"https://hotel-rajmahal.netlify.app/",
     },
-    // {
-    //     id: 5,
-    //     image: Project5,
-    //     title: "",
-    //     category: "Web Development",
-    //     site:"",
-    // },
+    {
+        id: 5,
+        image: Project5,
+        title: "Drum-Kit",
+        category: "HTML+CSS+JS",
+        site:"https://drum-kit-450.netlify.app/",
+    },
 ];
 
 export const projectsNav = [
