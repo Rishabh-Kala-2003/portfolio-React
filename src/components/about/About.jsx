@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/p2.jpeg";
-import CV from "../../assets/Resume.pdf";
+import CV from "../../assets/Resume.";
 import Info from "./Info";
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
                 Dedicated Computer Science student pursuing a B.Tech degree with a passion for software development and problem-solving. Proficient
 in Java, data structures, and algorithms, I enjoy tackling complex challenges and finding efficient solutions. Alongside my programming
 skills, I have a solid foundation in web development, encompassing HTML, CSS, and JavaScript, and I love building dynamic and
-interactive user interfaces using React.
+interactive user interfaces using React, Nodejs and Express.
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     Download CV
