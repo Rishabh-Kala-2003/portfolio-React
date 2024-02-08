@@ -10,7 +10,7 @@ export const projectsData = [
         image: Project1,
         title: "Keeper-NotesTaking-Website",
         category: "React",
-        site:"https://github.com/Rishabh-Kala-2003",
+        site:"https://github.com/Rishabh-Kala-2003/Keeper-Notes-Taking-site",
     },
     {
         id: 2,
